@@ -1,0 +1,5 @@
+1. racket
+2. shuttle
+3. net
+4. ground
+5. shoes
